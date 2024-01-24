@@ -1,0 +1,2 @@
+# Ignore stuff made from local build
+bin/*

@@ -1,3 +1,6 @@
 <layout id="WatchFace">
+    <!-- This doesn't work... -->
+    <!--drawable id="../drawables/checkerboard" -->
+    <bitmap id="background" filename="../drawables/utk-checkerboard-3x3.png" />
     <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
 </layout>

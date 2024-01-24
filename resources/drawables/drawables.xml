@@ -1,3 +1,4 @@
 <drawables>
+    <bitmap id="checkerboard" filename="utk-checkerboard-3x3.png" />
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
 </drawables>
